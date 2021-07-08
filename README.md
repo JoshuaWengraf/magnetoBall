@@ -1,2 +1,2 @@
-# magnetoBall
+# ball accellerating towards mouse
  
