@@ -4,6 +4,7 @@ let drawCircle = function (x, y, radius) {
 	context.fillStyle = blue;
 	context.arc(x, y, radius, 0, Math.PI * 2, false);
 	context.closePath();
+	context.fill();
 }
 
 let drawWindow = function() {
